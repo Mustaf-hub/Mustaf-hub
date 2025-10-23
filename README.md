@@ -13,7 +13,7 @@ I’m a Software Engineer focused on AI/ML and backend development and on top of
 - databases: sql
 
 ## What I’m up to
-- Designing and iterating on Sellify’s backend and deployment pipeline [Sellify web app/Demo](#)
+- Designing and iterating on Sellify’s backend and deployment pipeline [Sellify web app/Demo](https://github.com/Mustaf-hub/Sellify-WebApp)
 - Exploring practical AI/ML integrations for production systems
 
 ## Let’s connect
