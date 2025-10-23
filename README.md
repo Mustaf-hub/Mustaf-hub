@@ -1,23 +1,23 @@
 # Hi there 👋
 
-I’m a Software Engineer focused on AI/ML and backend development. I like to keep it fun—but professional—while building reliable, scalable systems.
+I’m a Software Engineer focused on AI/ML and backend development and on top of that very efficient in data structures and algorithms. I like to keep it fun—but professional—while i build, maintain and scale reliable aplications and systems.
 
-- 🔭 Current project: Sellify (work in progress)
-- 🔬 Interests: AI/ML, model-serving, data pipelines, backend architectures
-- 🛠️ Tech: Java (Spring Boot), Python, C#, AWS
-- 🤝 Open to: Collaborations on AI/ML and backend projects
+- 🔭 Current project: Sellify web App (work in progress)
+- 🔬 Interests: AI/ML, data pipelines, backend architectures, databases, web development 
+- 🛠️ Tech: Java (Spring Boot), Python, C#
+- 🤝 Open to: Collaborations on AI/ML and web development projects
 
 ## Tech Stack
 - Languages: Java, Python, C#
 - Frameworks: Spring Boot
-- Cloud: AWS
+- databases: sql
 
 ## What I’m up to
-- Designing and iterating on Sellify’s backend and deployment pipeline
+- Designing and iterating on Sellify’s backend and deployment pipeline [Sellify web app/Demo](#)
 - Exploring practical AI/ML integrations for production systems
 
 ## Let’s connect
-- [LinkedIn](#) • [Email](#) • [Sellify Repo/Demo](#)
+- [LinkedIn](https://www.linkedin.com/in/mustafa-kavuma-077a46326/) • [youtube](https://www.youtube.com/@Mustafa_Kavuma) • 
 
 Thanks for stopping by!
 <!--
