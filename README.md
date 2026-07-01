@@ -1,19 +1,19 @@
 # Hi there 👋
 
-I’m a Software Engineer focused on AI/ML and backend development and on top of that very efficient in data structures and algorithms. I like to keep it fun—but professional—while i build, maintain and scale reliable aplications and systems.
+I’m a Software Engineer focused on Android and backend development and on top of that very efficient in data structures and algorithms. I like to keep it fun—but professional—while i build, maintain and scale reliable aplications and systems.
 
-- 🔭 Current project: Sellify web App (work in progress)
-- 🔬 Interests: AI/ML, data pipelines, backend architectures, databases, web development 
-- 🛠️ Tech: Java (Spring Boot), Python, C#
-- 🤝 Open to: Collaborations on AI/ML and web development projects
+- 🔭 Current project: bringing teamNest app to playstore (work in progress)
+- 🔬 Interests: mobile development, backend architectures, databases, web development 
+- 🛠️ Tech: kotlin, jetpack compose 
+- 🤝 Open to: Collaborations on android and backend web projects
 
 ## Tech Stack
-- Languages: Java, Python, C#
-- Frameworks: Spring Boot
+- Languages: Java, Python, javascript, PHP , kotlin
+- Frameworks: laravel
 - databases: sql
 
 ## What I’m up to
-- Designing and iterating on Sellify’s backend and deployment pipeline [Sellify web app/Demo](https://github.com/Mustaf-hub/Sellify-WebApp)
+- Designing and iterating on Teamnest backend and deployment to the playstore [Sellify web app/Demo](https://github.com/Mustaf-hub/Sellify-WebApp)
 - Exploring practical AI/ML integrations for production systems
 
 ## Let’s connect
